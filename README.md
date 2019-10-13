@@ -1,2 +1,2 @@
-# rm5produal
-Dual Speaker Mod For Realme 5 Pro
+# Dual Speaker Mod For Realme 5 Pro
+Based on A06 firmware
